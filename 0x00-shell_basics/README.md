@@ -1,1 +1,1 @@
-moving to the previous directory
+List files from directories in a specified format
