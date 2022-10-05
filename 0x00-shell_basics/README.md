@@ -1,1 +1,1 @@
-Shows the path of the current directory
+Display contents in long format
