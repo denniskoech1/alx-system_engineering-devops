@@ -1,1 +1,1 @@
-List files from directories in a specified format
+printing the type of command
